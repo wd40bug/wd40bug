@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wd40bug
-- 👀 I’m interested in Data Science and General programming
+- 👀 I’m interested in Cybersecurity and Low-Level programming
 - 🌱 I’m currently learning Rust and R
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me wd40bug@gmail.com
